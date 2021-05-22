@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-creative-apartments/static/css/main.0f6e16b1.chunk.css",
-    "main.js": "/react-creative-apartments/static/js/main.dcbfb325.chunk.js",
-    "main.js.map": "/react-creative-apartments/static/js/main.dcbfb325.chunk.js.map",
+    "main.css": "/react-creative-apartments/static/css/main.48ded959.chunk.css",
+    "main.js": "/react-creative-apartments/static/js/main.9926c84e.chunk.js",
+    "main.js.map": "/react-creative-apartments/static/js/main.9926c84e.chunk.js.map",
     "runtime-main.js": "/react-creative-apartments/static/js/runtime-main.1ebbffc1.js",
     "runtime-main.js.map": "/react-creative-apartments/static/js/runtime-main.1ebbffc1.js.map",
     "static/js/2.5a4ae052.chunk.js": "/react-creative-apartments/static/js/2.5a4ae052.chunk.js",
     "static/js/2.5a4ae052.chunk.js.map": "/react-creative-apartments/static/js/2.5a4ae052.chunk.js.map",
     "index.html": "/react-creative-apartments/index.html",
-    "static/css/main.0f6e16b1.chunk.css.map": "/react-creative-apartments/static/css/main.0f6e16b1.chunk.css.map",
+    "static/css/main.48ded959.chunk.css.map": "/react-creative-apartments/static/css/main.48ded959.chunk.css.map",
     "static/js/2.5a4ae052.chunk.js.LICENSE.txt": "/react-creative-apartments/static/js/2.5a4ae052.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ebbffc1.js",
     "static/js/2.5a4ae052.chunk.js",
-    "static/css/main.0f6e16b1.chunk.css",
-    "static/js/main.dcbfb325.chunk.js"
+    "static/css/main.48ded959.chunk.css",
+    "static/js/main.9926c84e.chunk.js"
   ]
 }
